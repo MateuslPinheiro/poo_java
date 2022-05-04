@@ -1,3 +1,5 @@
+package banco_virtual;
+
 public class ClasseConta {
     public int numConta;
     protected String tipo;

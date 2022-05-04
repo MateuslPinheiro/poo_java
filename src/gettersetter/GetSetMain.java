@@ -1,3 +1,5 @@
+package gettersetter;
+
 public class GetSetMain {
     public static void main(String[] args) {
         CanetaGetset c1 = new CanetaGetset("Bacon", "Preta", 0.7f);

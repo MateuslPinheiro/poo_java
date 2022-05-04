@@ -1,3 +1,5 @@
+package gettersetter;
+
 public class CanetaGetset {
     private String modelo;
     private float ponta;
@@ -42,7 +44,7 @@ public class CanetaGetset {
     }
 
     public void status() {
-        System.out.println("Sobre a Caneta:");
+        System.out.println("Sobre a objeto.Caneta:");
         System.out.println("Modelo: " + this.getModelo());
         System.out.println("Ponta: " + this.getPonta());
         System.out.println("Cor: " + this.cor);

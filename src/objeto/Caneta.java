@@ -1,3 +1,5 @@
+package objeto;
+
 public class Caneta {
     String modelo;
     String cor;
