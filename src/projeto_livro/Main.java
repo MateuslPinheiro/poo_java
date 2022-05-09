@@ -1,6 +1,6 @@
 package projeto_livro;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Pessoa[] p = new Pessoa[2];
         Livro[] l = new Livro[3];
